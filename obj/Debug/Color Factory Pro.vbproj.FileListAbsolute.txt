@@ -1,0 +1,17 @@
+E:\visual_studio\Color Factory Pro\bin\Debug\Color Factory Pro.exe.config
+E:\visual_studio\Color Factory Pro\bin\Debug\Color Factory Pro.exe
+E:\visual_studio\Color Factory Pro\bin\Debug\Color Factory Pro.pdb
+E:\visual_studio\Color Factory Pro\bin\Debug\Color Factory Pro.xml
+E:\visual_studio\Color Factory Pro\obj\Debug\MainWindow.g.vb
+E:\visual_studio\Color Factory Pro\obj\Debug\Application.g.vb
+E:\visual_studio\Color Factory Pro\obj\Debug\Color Factory Pro_MarkupCompile.cache
+E:\visual_studio\Color Factory Pro\obj\Debug\Color Factory Pro_MarkupCompile.lref
+E:\visual_studio\Color Factory Pro\obj\Debug\Application.baml
+E:\visual_studio\Color Factory Pro\obj\Debug\MainWindow.baml
+E:\visual_studio\Color Factory Pro\obj\Debug\Color Factory Pro.g.resources
+E:\visual_studio\Color Factory Pro\obj\Debug\Color_Factory_Pro.Resources.resources
+E:\visual_studio\Color Factory Pro\obj\Debug\Color Factory Pro.vbproj.GenerateResource.cache
+E:\visual_studio\Color Factory Pro\obj\Debug\Color Factory Pro.vbproj.CoreCompileInputs.cache
+E:\visual_studio\Color Factory Pro\obj\Debug\Color Factory Pro.exe
+E:\visual_studio\Color Factory Pro\obj\Debug\Color Factory Pro.xml
+E:\visual_studio\Color Factory Pro\obj\Debug\Color Factory Pro.pdb
